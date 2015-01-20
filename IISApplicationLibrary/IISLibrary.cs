@@ -15,7 +15,7 @@ namespace IISApplicationLibrary
             int PortStartIndex = 1000;
             int PortEndIndex = 2000;
             IPGlobalProperties properties = IPGlobalProperties.GetIPGlobalProperties();
-            int i = 10;
+            
             Thread.Sleep(1000);
             IPEndPoint[] tcpEndPoints = properties.GetActiveTcpListeners();
 
