@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISApplication", "IISApplication\IISApplication.csproj", "{F14692DA-7A35-4B99-8179-3116E8850001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISApplicationLibrary", "IISApplicationLibrary\IISApplicationLibrary.csproj", "{677C8114-5D28-4E1B-828A-8D887FBBEC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISDBLibrary", "IISDBLibrary\IISDBLibrary.csproj", "{7451D6CC-53A7-425B-8275-24F230A0CCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14692DA-7A35-4B99-8179-3116E8850001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14692DA-7A35-4B99-8179-3116E8850001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14692DA-7A35-4B99-8179-3116E8850001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14692DA-7A35-4B99-8179-3116E8850001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677C8114-5D28-4E1B-828A-8D887FBBEC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677C8114-5D28-4E1B-828A-8D887FBBEC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677C8114-5D28-4E1B-828A-8D887FBBEC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677C8114-5D28-4E1B-828A-8D887FBBEC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7451D6CC-53A7-425B-8275-24F230A0CCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7451D6CC-53A7-425B-8275-24F230A0CCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7451D6CC-53A7-425B-8275-24F230A0CCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7451D6CC-53A7-425B-8275-24F230A0CCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
